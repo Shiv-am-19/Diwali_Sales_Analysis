@@ -1,4 +1,4 @@
-#Diwali_Sales_Analysis : 
+Diwali_Sales_Analysis : 
 One of the largest celebrations in India is Diwali, often called the Festival of Lights. During this busy shopping season, notable sales occur in several categories. This study will examine the sales data collected throughout the Diwali season to find patterns, trends, and insights that can assist businesses in making wise decisions.
 
 #Dataset

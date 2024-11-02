@@ -1,5 +1,5 @@
-#Diwali_Sales_Analysis
-One of the largest celebrations in India is Diwali, often called the Festival of Lights. There are notable sales in a number of categories during this busy shopping season. In order to find patterns, trends, and insights that can assist businesses in making wise decisions, this study will examine the sales data collected throughout the Diwali season.
+#Diwali_Sales_Analysis : 
+One of the largest celebrations in India is Diwali, often called the Festival of Lights. During this busy shopping season, notable sales occur in several categories. This study will examine the sales data collected throughout the Diwali season to find patterns, trends, and insights that can assist businesses in making wise decisions.
 
 #Dataset
 User_ID
@@ -10,7 +10,7 @@ Amount
 The dataset is located in Diwali Sales.
 
 #Installation
-You must have Python and Jupyter Notebook installed in order to perform this analysis.The following packages must also be installed:
+You must have Python and Jupyter Notebook installed to perform this analysis. The following packages must also be installed:
 Seaborn
 Matplotlib 
 Pandas
@@ -28,14 +28,14 @@ EDA is performed to understand the underlying patterns and trends in the dataset
 Analyzing sales trends over gender
 Understanding Age Group sales
 Identifying best-selling States
-Analyzing the impact of Occupations
+Analyzing the Impact of Occupations
 Identifying the best Product Category.
 
 #Visaulization
 The results of the EDA are represented by a variety of visualizations:
 Examining sales patterns by Gender (Bar Plot)
 Comprehending sales by Age Group (Count Plot)
-Finding the the best sales States (Bar Plot
+Finding the best sales States (Bar Plot
 Examining the Effects of Occupations (Count Plot)
 Determine which Product Category is best (Bar Plot)
 
